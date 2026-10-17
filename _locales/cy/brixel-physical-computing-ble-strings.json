@@ -1,0 +1,14 @@
+{
+  "Bluetooth10.btGetReceived|block": "📥 BT derbyniwyd gwerth",
+  "Bluetooth10.btHasNew|block": "📥 BT newydd neges?",
+  "Bluetooth10.btIsConnected|block": "🔵 Bluetooth cysylltiedig?",
+  "Bluetooth10.btParsedGet|block": "🔍 BT dadansoddwyd %index th gwerth",
+  "Bluetooth10.btParse|block": "🔍 BT dadansoddi derbyniwyd with %delimiter",
+  "Bluetooth10.btSend|block": "📤 BT anfon %value",
+  "Bluetooth10.btStart|block": "🔵 Bluetooth dechrau",
+  "Bluetooth10.onBtConnected|block": "🔵 ymlaen Bluetooth cysylltiedig",
+  "Bluetooth10.onBtDisconnected|block": "🔵 ymlaen Bluetooth datgysylltwyd",
+  "Bluetooth10.onBtMessageAny|block": "📥 ymlaen BT neges unrhyw",
+  "Bluetooth10.onBtMessageChanged|block": "📥 ymlaen BT neges newidiwyd",
+  "Bluetooth10|block": "10. Bluetooth"
+}

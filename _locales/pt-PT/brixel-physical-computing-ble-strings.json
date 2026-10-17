@@ -1,0 +1,14 @@
+{
+  "Bluetooth10.btGetReceived|block": "📥 BT recebido valor",
+  "Bluetooth10.btHasNew|block": "📥 BT novo mensagem?",
+  "Bluetooth10.btIsConnected|block": "🔵 Bluetooth conectado?",
+  "Bluetooth10.btParsedGet|block": "🔍 BT analisado %index th valor",
+  "Bluetooth10.btParse|block": "🔍 BT analisar recebido with %delimiter",
+  "Bluetooth10.btSend|block": "📤 BT enviar %value",
+  "Bluetooth10.btStart|block": "🔵 Bluetooth início",
+  "Bluetooth10.onBtConnected|block": "🔵 ligado Bluetooth conectado",
+  "Bluetooth10.onBtDisconnected|block": "🔵 ligado Bluetooth desconectado",
+  "Bluetooth10.onBtMessageAny|block": "📥 ligado BT mensagem qualquer",
+  "Bluetooth10.onBtMessageChanged|block": "📥 ligado BT mensagem alterado",
+  "Bluetooth10|block": "10. Bluetooth"
+}

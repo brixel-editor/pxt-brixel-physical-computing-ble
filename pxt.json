@@ -1,0 +1,83 @@
+{
+  "name": "brixel-physical-computing-ble",
+  "version": "0.1.0",
+  "description": "Bluetooth (BLE Nordic UART) companion for BRIXEL Physical Computing: connect, send and receive wirelessly",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*",
+    "bluetooth": "*"
+  },
+  "files": [
+    "bluetooth.ts",
+    "README.md",
+    "_locales/ar/brixel-physical-computing-ble-jsdoc-strings.json",
+    "_locales/bg/brixel-physical-computing-ble-jsdoc-strings.json",
+    "_locales/ca/brixel-physical-computing-ble-strings.json",
+    "_locales/cs/brixel-physical-computing-ble-strings.json",
+    "_locales/cy/brixel-physical-computing-ble-strings.json",
+    "_locales/da/brixel-physical-computing-ble-strings.json",
+    "_locales/de/brixel-physical-computing-ble-strings.json",
+    "_locales/el/brixel-physical-computing-ble-jsdoc-strings.json",
+    "_locales/en/brixel-physical-computing-ble-strings.json",
+    "_locales/es-ES/brixel-physical-computing-ble-strings.json",
+    "_locales/fi/brixel-physical-computing-ble-strings.json",
+    "_locales/fr/brixel-physical-computing-ble-strings.json",
+    "_locales/gn/brixel-physical-computing-ble-strings.json",
+    "_locales/he/brixel-physical-computing-ble-jsdoc-strings.json",
+    "_locales/he/brixel-physical-computing-ble-strings.json",
+    "_locales/hu/brixel-physical-computing-ble-strings.json",
+    "_locales/is/brixel-physical-computing-ble-strings.json",
+    "_locales/it/brixel-physical-computing-ble-strings.json",
+    "_locales/ja/brixel-physical-computing-ble-strings.json",
+    "_locales/ko/brixel-physical-computing-ble-strings.json",
+    "_locales/nb/brixel-physical-computing-ble-strings.json",
+    "_locales/nl/brixel-physical-computing-ble-strings.json",
+    "_locales/nn/brixel-physical-computing-ble-strings.json",
+    "_locales/pl/brixel-physical-computing-ble-strings.json",
+    "_locales/pt-BR/brixel-physical-computing-ble-strings.json",
+    "_locales/pt-PT/brixel-physical-computing-ble-strings.json",
+    "_locales/ru/brixel-physical-computing-ble-jsdoc-strings.json",
+    "_locales/si/brixel-physical-computing-ble-jsdoc-strings.json",
+    "_locales/sk/brixel-physical-computing-ble-strings.json",
+    "_locales/sr/brixel-physical-computing-ble-jsdoc-strings.json",
+    "_locales/sr/brixel-physical-computing-ble-strings.json",
+    "_locales/sv/brixel-physical-computing-ble-strings.json",
+    "_locales/tr/brixel-physical-computing-ble-strings.json",
+    "_locales/uk/brixel-physical-computing-ble-jsdoc-strings.json",
+    "_locales/vi/brixel-physical-computing-ble-jsdoc-strings.json",
+    "_locales/vi/brixel-physical-computing-ble-strings.json",
+    "_locales/zh-CN/brixel-physical-computing-ble-strings.json",
+    "_locales/zh-TW/brixel-physical-computing-ble-strings.json"
+  ],
+  "testFiles": [
+    "test.ts"
+  ],
+  "public": true,
+  "supportedTargets": [
+    "microbit"
+  ],
+  "preferredEditor": "blocksprj",
+  "author": "BRIXEL",
+  "disablesVariants": [
+    "mbdal"
+  ],
+  "yotta": {
+    "configIsJustDefaults": true,
+    "config": {
+      "microbit-dal": {
+        "bluetooth": {
+          "enabled": 1,
+          "pairing_mode": 0,
+          "private_addressing": 0,
+          "open": 1,
+          "whitelist": 0,
+          "advertising_timeout": 0,
+          "tx_power": 6,
+          "dfu_service": 0,
+          "event_service": 1,
+          "device_info_service": 1
+        }
+      }
+    }
+  }
+}

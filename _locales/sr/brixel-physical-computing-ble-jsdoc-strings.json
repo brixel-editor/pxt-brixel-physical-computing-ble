@@ -1,0 +1,13 @@
+{
+  "Bluetooth10.btGetReceived|block": "📥 BT примљено вредност",
+  "Bluetooth10.btHasNew|block": "📥 BT ново порука?",
+  "Bluetooth10.btIsConnected|block": "🔵 Bluetooth повезано?",
+  "Bluetooth10.btParsedGet|block": "🔍 BT обрађено %index th вредност",
+  "Bluetooth10.btParse|block": "🔍 BT обради примљено with %delimiter",
+  "Bluetooth10.btSend|block": "📤 BT пошаљи %value",
+  "Bluetooth10.btStart|block": "🔵 Bluetooth почетак",
+  "Bluetooth10.onBtConnected|block": "🔵 укључено Bluetooth повезано",
+  "Bluetooth10.onBtDisconnected|block": "🔵 укључено Bluetooth прекинуто",
+  "Bluetooth10.onBtMessageAny|block": "📥 укључено BT порука било која",
+  "Bluetooth10.onBtMessageChanged|block": "📥 укључено BT порука промењено"
+}

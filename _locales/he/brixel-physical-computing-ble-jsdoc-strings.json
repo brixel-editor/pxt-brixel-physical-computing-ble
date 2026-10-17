@@ -1,0 +1,13 @@
+{
+  "Bluetooth10.btHasNew|block": "📥 BT חדש הודעה?",
+  "Bluetooth10.btIsConnected|block": "🔵 Bluetooth מחובר?",
+  "Bluetooth10.btParsedGet|block": "🔍 BT מנותח %index th ערך",
+  "Bluetooth10.btParse|block": "🔍 BT נתח התקבל with %delimiter",
+  "Bluetooth10.btSend|block": "📤 BT שלח %value",
+  "Bluetooth10.btStart|block": "🔵 Bluetooth התחלה",
+  "Bluetooth10.onBtConnected|block": "🔵 דלוק Bluetooth מחובר",
+  "Bluetooth10.onBtDisconnected|block": "🔵 דלוק Bluetooth מנותק",
+  "Bluetooth10.onBtMessageAny|block": "📥 דלוק BT הודעה כל",
+  "Bluetooth10.onBtMessageChanged|block": "📥 דלוק BT הודעה השתנה",
+  "Bluetooth10|block": "10. Bluetooth"
+}

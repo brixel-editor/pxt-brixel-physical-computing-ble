@@ -1,0 +1,14 @@
+{
+  "Bluetooth10.btGetReceived|block": "📥 BT ληφθέν τιμή",
+  "Bluetooth10.btHasNew|block": "📥 BT νέο μήνυμα?",
+  "Bluetooth10.btIsConnected|block": "🔵 Bluetooth συνδεδεμένο?",
+  "Bluetooth10.btParsedGet|block": "🔍 BT αναλυμένο %index th τιμή",
+  "Bluetooth10.btParse|block": "🔍 BT ανάλυση ληφθέν with %delimiter",
+  "Bluetooth10.btSend|block": "📤 BT αποστολή %value",
+  "Bluetooth10.btStart|block": "🔵 Bluetooth αρχή",
+  "Bluetooth10.onBtConnected|block": "🔵 ανοιχτό Bluetooth συνδεδεμένο",
+  "Bluetooth10.onBtDisconnected|block": "🔵 ανοιχτό Bluetooth αποσυνδέθηκε",
+  "Bluetooth10.onBtMessageAny|block": "📥 ανοιχτό BT μήνυμα οποιοδήποτε",
+  "Bluetooth10.onBtMessageChanged|block": "📥 ανοιχτό BT μήνυμα άλλαξε",
+  "Bluetooth10|block": "10. Bluetooth"
+}

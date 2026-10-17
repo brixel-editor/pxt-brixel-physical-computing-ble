@@ -1,0 +1,14 @@
+{
+  "Bluetooth10.btGetReceived|block": "📥 BT móttekið gildi",
+  "Bluetooth10.btHasNew|block": "📥 BT nýtt skilaboð?",
+  "Bluetooth10.btIsConnected|block": "🔵 Bluetooth tengt?",
+  "Bluetooth10.btParsedGet|block": "🔍 BT þáttað %index th gildi",
+  "Bluetooth10.btParse|block": "🔍 BT þátta móttekið with %delimiter",
+  "Bluetooth10.btSend|block": "📤 BT senda %value",
+  "Bluetooth10.btStart|block": "🔵 Bluetooth byrjun",
+  "Bluetooth10.onBtConnected|block": "🔵 á Bluetooth tengt",
+  "Bluetooth10.onBtDisconnected|block": "🔵 á Bluetooth aftengt",
+  "Bluetooth10.onBtMessageAny|block": "📥 á BT skilaboð hvaða",
+  "Bluetooth10.onBtMessageChanged|block": "📥 á BT skilaboð breytt",
+  "Bluetooth10|block": "10. Bluetooth"
+}

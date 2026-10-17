@@ -1,0 +1,14 @@
+{
+  "Bluetooth10.btGetReceived|block": "📥 BT alınan değer",
+  "Bluetooth10.btHasNew|block": "📥 BT yeni mesaj?",
+  "Bluetooth10.btIsConnected|block": "🔵 Bluetooth bağlı?",
+  "Bluetooth10.btParsedGet|block": "🔍 BT ayrıştırılmış %index th değer",
+  "Bluetooth10.btParse|block": "🔍 BT ayrıştır alınan with %delimiter",
+  "Bluetooth10.btSend|block": "📤 BT gönder %value",
+  "Bluetooth10.btStart|block": "🔵 Bluetooth başlangıç",
+  "Bluetooth10.onBtConnected|block": "🔵 açık Bluetooth bağlı",
+  "Bluetooth10.onBtDisconnected|block": "🔵 açık Bluetooth bağlantı kesildi",
+  "Bluetooth10.onBtMessageAny|block": "📥 açık BT mesaj herhangi",
+  "Bluetooth10.onBtMessageChanged|block": "📥 açık BT mesaj değişmiş",
+  "Bluetooth10|block": "10. Bluetooth"
+}

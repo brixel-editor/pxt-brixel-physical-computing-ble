@@ -1,0 +1,14 @@
+{
+  "Bluetooth10.btGetReceived|block": "📥 BT получено стойност",
+  "Bluetooth10.btHasNew|block": "📥 BT нов съобщение?",
+  "Bluetooth10.btIsConnected|block": "🔵 Bluetooth свързано?",
+  "Bluetooth10.btParsedGet|block": "🔍 BT анализиран %index th стойност",
+  "Bluetooth10.btParse|block": "🔍 BT анализирай получено with %delimiter",
+  "Bluetooth10.btSend|block": "📤 BT изпрати %value",
+  "Bluetooth10.btStart|block": "🔵 Bluetooth начало",
+  "Bluetooth10.onBtConnected|block": "🔵 вкл Bluetooth свързано",
+  "Bluetooth10.onBtDisconnected|block": "🔵 вкл Bluetooth прекъснато",
+  "Bluetooth10.onBtMessageAny|block": "📥 вкл BT съобщение всеки",
+  "Bluetooth10.onBtMessageChanged|block": "📥 вкл BT съобщение променен",
+  "Bluetooth10|block": "10. Bluetooth"
+}

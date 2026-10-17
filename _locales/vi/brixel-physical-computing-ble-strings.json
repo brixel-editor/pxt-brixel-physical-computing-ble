@@ -1,0 +1,10 @@
+{
+  "Bluetooth10.btGetReceived|block": "📥 BT đã nhận giá trị",
+  "Bluetooth10.btHasNew|block": "📥 BT mới tin nhắn?",
+  "Bluetooth10.btIsConnected|block": "🔵 Bluetooth đã kết nối?",
+  "Bluetooth10.btParsedGet|block": "🔍 BT đã phân tích %index th giá trị",
+  "Bluetooth10.btParse|block": "🔍 BT phân tích đã nhận with %delimiter",
+  "Bluetooth10.btSend|block": "📤 BT gửi %value",
+  "Bluetooth10.btStart|block": "🔵 Bluetooth bắt đầu",
+  "Bluetooth10.onBtConnected|block": "🔵 bật Bluetooth đã kết nối"
+}

@@ -1,0 +1,6 @@
+{
+  "Bluetooth10.onBtDisconnected|block": "🔵 bật Bluetooth đã ngắt",
+  "Bluetooth10.onBtMessageAny|block": "📥 bật BT tin nhắn bất kỳ",
+  "Bluetooth10.onBtMessageChanged|block": "📥 bật BT tin nhắn đã thay đổi",
+  "Bluetooth10|block": "10. Bluetooth"
+}
