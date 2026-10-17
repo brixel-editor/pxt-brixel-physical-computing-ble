@@ -1,11 +1,12 @@
 {
   "name": "brixel-physical-computing-ble",
   "version": "0.1.0",
-  "description": "Bluetooth (BLE Nordic UART) companion for BRIXEL Physical Computing: connect, send and receive wirelessly",
+  "description": "Bluetooth (BLE Nordic UART) edition of BRIXEL Physical Computing: includes every block of the main extension plus wireless connect/send/receive",
   "license": "MIT",
   "dependencies": {
     "core": "*",
-    "bluetooth": "*"
+    "bluetooth": "*",
+    "brixel-physical-computing": "github:brixel-editor/pxt-brixel-physical-computing#v0.3.0"
   },
   "files": [
     "bluetooth.ts",
