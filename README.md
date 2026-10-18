@@ -1,4 +1,4 @@
-# BRIXEL Physical Computing Bluetooth — 0.2.1 개발판 (블루투스판)
+# BRIXEL Physical Computing Bluetooth — 0.3.0 개발판 (블루투스판)
 
 [BRIXEL Physical Computing](https://github.com/brixel-editor/pxt-brixel-physical-computing)의 **블루투스판**입니다. 이 확장 **하나만** 넣으면 본 확장의 모든 블록(센서·디스플레이·모터·통신)이 **자동으로 함께** 들어오고, 여기에 micro:bit V2 내장 블루투스(BLE, 노르딕 UART) 연결·보내기·받기 블록이 더해집니다. **micro:bit V2** 전용입니다.
 
@@ -7,7 +7,7 @@
 | 유선(USB) | 본 확장 `pxt-brixel-physical-computing` **하나** |
 | 무선(블루투스) | 이 블루투스 확장 `pxt-brixel-physical-computing-ble` **하나**(본 확장 자동 포함) |
 
-이 확장의 0.2.1 은 본 확장 **v0.4.1** 을 품습니다(0.1.0 = v0.3.0). 본 확장을 따로 또 넣을 필요는 없습니다(넣더라도 같은 버전이면 괜찮지만, 다른 버전이 섞이면 MakeCode 가 충돌을 알립니다).
+이 확장의 0.3.0 은 본 확장 **v0.5.0** 을 품습니다(0.1.0 = v0.3.0). 본 확장을 따로 또 넣을 필요는 없습니다(넣더라도 같은 버전이면 괜찮지만, 다른 버전이 섞이면 MakeCode 가 충돌을 알립니다).
 
 ## 왜 따로 나눴나요?
 
